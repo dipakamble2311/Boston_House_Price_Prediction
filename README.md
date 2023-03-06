@@ -1,17 +1,16 @@
 # Boston_House_Price_Prediction
-boston_dataset:
 
-Boston house prices dataset
----------------------------
+              Boston house prices dataset
+              ---------------------------
 
-**Data Set Characteristics:**  
+
 
     :Number of Instances: 506 
 
     :Number of Attributes: 13 numeric/categorical predictive. Median Value (attribute 14) is usually the target.
 
     :Attribute Information (in order):
-        - CRIM     per capita crime rate by town
+        - CRIM     crime rate by town
         - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
         - INDUS    proportion of non-retail business acres per town
         - CHAS     Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
@@ -25,13 +24,5 @@ Boston house prices dataset
         - B        1000(Bk - 0.63)^2 where Bk is the proportion of black people by town
         - LSTAT    % lower status of the population
         - MEDV     Median value of owner-occupied homes in $1000's
+        
 
-    :Missing Attribute Values: None
-
-    
-
-This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
-
-
-The Boston house-price data has been used in many machine learning papers that address regression
-problems.
